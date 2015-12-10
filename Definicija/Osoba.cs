@@ -16,9 +16,8 @@ namespace Vsite.CSharp
         {
             get;
             private set;
-
         }
-
+        
 
         // : Javno dostupno polje Ime nadomjestiti svojstvom (property) koje se izvan klase može čitati i zadavati, ali prilikom zadavanja treba onemogućiti
         // zadavanje praznim znakovnim nizom

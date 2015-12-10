@@ -12,7 +12,7 @@ namespace Vsite.CSharp
             Osoba o = new Osoba("Janko");
             Console.WriteLine(o.Identifikacija);
 
-            // TODO: U definiciji klase Student pregaziti svojstvo Identifikacija tako da donja naredba Debug.Assert ne baci iznimku
+            // : U definiciji klase Student pregaziti svojstvo Identifikacija tako da donja naredba Debug.Assert ne baci iznimku
 
             Student s = new Student("Pero", 5);
             Debug.Assert(s.Identifikacija == "Pero, 5. godina");
