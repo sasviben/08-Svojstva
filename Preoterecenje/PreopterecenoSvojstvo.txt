@@ -1,1 +1,3 @@
-﻿
+﻿1>------ Build started: Project: Preoterecenje, Configuration: Debug Any CPU ------
+1>C:\Users\Student\Source\Repos\08-Svojstva\Preoterecenje\Preopterecenje.cs(24,72,24,73): error CS1014: A get or set accessor expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
